@@ -1,6 +1,6 @@
 # Howtoroundhousekick
 How to roundhouse kick, Muay Thai style
-flowchart TD
+```flowchart TD
     A[How to throw a Rear Roundhouse Kick]
     B(Step 1: Lead Foot step)-->|Take a small step forward with your left foot. Be mindful to stay on the balls of your feet.|C(Step 2: Rear Knee elevation)
     C-->|After a small step, begin to elevate your rear knee towards your target|D(Step 3: Rear Arm swing)
@@ -13,3 +13,4 @@ flowchart TD
     K-->L[Relax your body until the point of impact.]
     L-->M[Use the inner point of your patella to aim at your target directly while kicking. The kick will go as high as the knee is elevated, and proper hip rotation will allow the shin to land whereever it aims.]
     M-->N[In practice you should aim for the same points of contact for corresponding High, Middle or Low kick. For example: Practice aiming at the outer side of the lower lead leg quadricep **everytime**.]
+```
